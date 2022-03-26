@@ -24,4 +24,5 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![Parastgram](https://user-images.githubusercontent.com/78925894/160228683-91088b6c-fa8c-4cba-ae58-08d82248a209.gif)
